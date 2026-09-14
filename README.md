@@ -1,4 +1,4 @@
-# # CrowdSafe AI — Real-Time Crowd Monitoring & Stampede Detection
+# CrowdSafe AI — Real-Time Crowd Monitoring & Stampede Detection
 
 An end-to-end crowd safety monitoring system built with **YOLOv8**, integrating computer vision, crowd density analysis, and a complete **MLOps pipeline** for production readiness.
 
@@ -157,27 +157,6 @@ crowdsafe-ai/
 ├── Dockerfile                   # Docker configuration
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
-```
-
-## Running Locally
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/DhulakshanKannan/crowdsafe-ai.git
-cd crowdsafe-ai
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Streamlit Dashboard
-
-```bash
-streamlit run app.py
 ```
 
 ## Running via Docker
