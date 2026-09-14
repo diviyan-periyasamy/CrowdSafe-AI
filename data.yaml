@@ -1,0 +1,12 @@
+names:
+- crowd counting dataset - v2 2023-05-17 12-12pm
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: crowd-counting-tvpqo
+  url: https://universe.roboflow.com/arbeitsplatz/crowd-counting-tvpqo/dataset/1
+  version: 1
+  workspace: arbeitsplatz
+test: ../test/images
+train: ../train/images
+val: ../valid/images
